@@ -1,5 +1,11 @@
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6,8,10&height=120&section=header&text=Tejasvi%20Singh&fontSize=30&fontColor=ffffff" width="100%"/>
+<p align="center">
+  <img src="https://github.com/Tejasvi1206/Tejasvi1206/blob/main/assets/liquid-header.gif" width="100%" alt="animated header"/>
+</p>
+
+
+
+
 
 
 ---
