@@ -1,5 +1,7 @@
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hey%20there!%20I'm%20Tejasvi%20Singh%20👋&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1e90ff&center=true&vCenter=true&width=435&lines=Hi!+I'm+Tejasvi+Singh;C%2B%2B+Developer;Go+Backend+Engineer;IoT+and+System+Design+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
