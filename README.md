@@ -94,7 +94,10 @@ I love exploring intersections between **C++ performance systems**, **Golang API
 ---
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
 
 <!---## Hi there 👋
 
