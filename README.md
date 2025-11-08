@@ -1,7 +1,6 @@
 <!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1e90ff&center=true&vCenter=true&width=435&lines=Hi!+I'm+Tejasvi+Singh;C%2B%2B+Developer;Go+Backend+Engineer;IoT+and+System+Design+Enthusiast" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6,8,10&height=120&section=header&text=Tejasvi%20Singh&fontSize=30&fontColor=ffffff" width="100%"/>
+
 
 ---
 
