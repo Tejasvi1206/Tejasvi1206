@@ -1,13 +1,7 @@
 <!-- 🌌 Animated Header -->
-<p align="center" style="overflow:hidden; border-radius:12px;">
-  <img src="https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1539582971600-DG58HMN0UGJ6B3ARA5K3/Intro_Image.gif?format=2500w"
-       alt="Animated Header"
-       width="100%"
-       style="margin-top:-50px; height:150px; object-fit:cover;" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1e90ff&center=true&vCenter=true&width=435&lines=Hi!+I'm+Tejasvi+Singh;C%2B%2B+Developer;Go+Backend+Engineer;System+Design+Enthusiast" alt="Typing SVG" />
 </p>
-
-<h1 align="center">Hi 👋, I’m <span style="color:#00bcd4;">Tejasvi Singh</span></h1>
-<h3 align="center" style="color:#9eafff;">C++ Developer | Go Backend Engineer | System Design Enthusiast</h3>
 
 ---
 
@@ -62,21 +56,6 @@ I love exploring intersections between **C++ performance systems**, **Golang API
 </p>
 
 [**Download Resume**](https://github.com/Tejasvi1206/Tejasvi_Singh_Resume.pdf)
-
----
-
-###  GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tejasvi1206&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00bcd4&icon_color=00bcd4" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasvi1206&theme=react&hide_border=true&background=0D1117&stroke=00bcd4&ring=00bcd4&fire=00bcd4&currStreakLabel=00bcd4" />
-</p>
-
----
-
-<!-- 🐍 Animated Footer -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 <!---## Hi there 👋
 
