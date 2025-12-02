@@ -13,7 +13,6 @@ I love exploring intersections between **C++ performance systems**, **Golang API
 **Current Focus**
 - Building scalable **backend APIs** with Go, MySQL & Docker  
 - Exploring **parallel computing** and **system-level programming** in C++  
-- Integrating **IoT and wireless systems** with cloud automation  
 
 ---
 
