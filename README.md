@@ -19,7 +19,7 @@ I'm **Tejasvi Singh**, an **Electronics and Communication Engineering** student 
   <img src="https://skillicons.dev/icons?i=cpp,go,python,arduino,mysql,docker,kubernetes,git,linux,vscode" />
 </p>
 
-**Languages:** C++, Go, Python 
+**Languages:** C++, Go, Python  
 **Backend & DevOps Tools:** Gin, Gorilla Mux, Docker, Kubernetes, Git, Linux  
 **System Design:** Microservices, RESTful APIs, Scalability, Load Balancing  
 **Coursework:** Operating Systems, Computer Networks, DBMS, OOP, Data Structures & Algorithms 
