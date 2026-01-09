@@ -6,7 +6,7 @@
 ---
 
 ### About Me
-I'm **Tejasvi Singh**, an **Electronics and Communication Engineering** student at **NIT Hamirpur (2021–2026)**, Focused on **backend development** and **systems programming**, with an interest in building efficient, well-designed software.  
+I'm **Tejasvi Singh**, final-year integrated M.Tech + B.Tech student at **NIT Hamirpur**, in Electronics & Communication Engineering, focused on **backend development** and **systems programming**, with an interest in building efficient, well-designed software.  
 
 **Current Focus**
 - Building scalable **backend APIs** with Go, MySQL & Docker  
@@ -19,10 +19,10 @@ I'm **Tejasvi Singh**, an **Electronics and Communication Engineering** student 
   <img src="https://skillicons.dev/icons?i=cpp,go,python,arduino,mysql,docker,kubernetes,git,linux,vscode" />
 </p>
 
-**Languages:** C++, Go, Python  
-**Backend & DevOps Tools:** Gin, Gorilla Mux, Docker, Kubernetes, Git, Linux  
-**System Design:** Microservices, RESTful APIs, Scalability, Load Balancing  
-**Coursework:** Operating Systems, Computer Networks, DBMS, OOP, Data Structures & Algorithms 
+**Languages :** C++, Go, Python  
+**Backend & DevOps Tools :** Gin, Gorilla Mux, Docker, Kubernetes, Git, Linux  
+**System Design :** Microservices, RESTful APIs, Scalability, Load Balancing  
+**Coursework :** Operating Systems, Computer Networks, DBMS, OOP, Data Structures & Algorithms 
 
 ---
 
