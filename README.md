@@ -52,7 +52,7 @@ I'm **Tejasvi Singh**, final-year integrated M.Tech + B.Tech student at **NIT Ha
   </a>
 </p>
 
-[**Download Resume**](https://github.com/Tejasvi1206/Tejasvi_Singh_Resume.pdf)
+[**Download Resume**](https://drive.google.com/drive/folders/1wNSJvMPxqJ9Hhh42XMUW1BAfe3kvxE_I)
 
 <!---## Hi there 👋
 
