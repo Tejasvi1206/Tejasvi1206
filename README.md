@@ -9,7 +9,7 @@
   &nbsp;
   <a href="https://github.com/Tejasvi1206"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   &nbsp;
-  <a href="YOUR_DIRECT_RESUME_PDF_LINK_HERE"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a>
+  <a href="https://drive.google.com/drive/folders/1FfFj-jFyd6Il8Iq6L-2R2th7jMQg4qUy"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a>
 </p>
 
 ---
@@ -47,15 +47,7 @@ Coursework     →  OS, Computer Networks, DBMS, OOP, DSA
 | [**Inventory App**](https://github.com/Tejasvi1206/inventory-app) | Inventory management app with CRUD operations. | JavaScript |
 | [**URL Shortener**](https://github.com/Tejasvi1206/url-shortner-DockerPractice) | Go URL shortener containerized with Docker. | Go, Docker |
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejasvi1206&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="155"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasvi1206&layout=compact&theme=github_dark&hide_border=true" height="155"/>
-</p>
 
 ---
 
@@ -69,6 +61,4 @@ Coursework     →  OS, Computer Networks, DBMS, OOP, DSA
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tejasvi1206&color=1e90ff&style=flat-square&label=Profile+Views"/>
-</p>
+
